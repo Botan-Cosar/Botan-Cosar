@@ -5,10 +5,9 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Botan-Cosar&show_icons=true&theme=codeSTACKr&count_private=true&locale=en&layout=compact" alt="botan-cosar" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=botan-cosar&show_icons=true&theme=codeSTACKr&locale=en" alt="botan-cosar" /></p>
-
+<h3 align="left">Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=botan-cosar&theme=dark" alt="botan-cosar" /></p>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=botan-cosar&show_icons=true&theme=codeSTACKr&count_private=true&locale=en" alt="botan-cosar" /></p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Botan-Cosar&show_icons=true&theme=codeSTACKr&locale=en&layout=compact" alt="botan-cosar" /></p>
