@@ -1,6 +1,6 @@
 <h1>Hi there 👋, I'm Botan!</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=botan-cosar&label=Profile%20views&color=0e75b6&style=flat" alt="botan-cosar" /> </p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=botan-cosar)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=botan-cosar" alt="botan-cosar" /></a> </p>
 
